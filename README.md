@@ -17,4 +17,4 @@ Hey! My name is Bram Reuling. I am a software engineer with an interest in games
 - LURK
 - The Homebox Arcade
 
-![ Trailer Homebox Arcade ](https://github.com/Bram-Reuling/Bram-Reuling/blob/master/TheHomeBoxArcade.mp4)
+![](TheHomeBoxArcade.mp4)
