@@ -16,5 +16,3 @@ Hey! My name is Bram Reuling. I am a software engineer with an interest in games
 ## Projects that I worked on:
 - LURK
 - The Homebox Arcade
-
-![](TheHomeBoxArcade.mp4)
