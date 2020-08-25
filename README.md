@@ -2,7 +2,7 @@
 
 ## Short Intro
 
-- 🔭 I’m currently working on a game called TimeLess.
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently studying Creative Media & Game Technologies at Saxion University of Applied Sciences
 - 👯 I’m looking to collaborate on other projects.
 - 💬 Ask me about Unity
