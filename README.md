@@ -13,7 +13,7 @@ Hey! My name is Bram Reuling. I am a software engineer with an interest in games
 ### Connect with me:
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bram-reuling/)   [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bramreuling/)   [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BramReuling)
 
-### Spotify:
+### I listened to:
 [![Spotify](https://novatorem.bram-reuling.vercel.app/api/spotify)](https://open.spotify.com/user/brametje01)
 
 ## Projects that I worked on:
