@@ -15,6 +15,8 @@ Hey! My name is Bram Reuling. I am a software engineer with an interest in games
 
 ### Languages and Tools:
 
+[![Spotify](https://novatorem.bram-reuling.vercel.app/api/spotify)](https://open.spotify.com/user/brametje01)
+
 ## Projects that I worked on:
 - LURK
 - The Homebox Arcade
