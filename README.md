@@ -18,3 +18,9 @@ Hey! My name is Bram Reuling. I am a software engineer with an interest in games
 ## Projects that I worked on:
 - LURK
 - The Homebox Arcade
+
+## Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bram-Reuling)](https://github.com/ryo-ma/github-profile-trophy)
+
+Made my [@ryo-ma](https://github.com/ryo-ma).
+Please check that [project](https://github.com/ryo-ma/github-profile-trophy)! It is really awesome.
