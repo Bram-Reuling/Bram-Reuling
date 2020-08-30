@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on other projects.
 - 💬 Ask me about Unity
 - 📫 How to reach me: Twitter - [@BramReuling](https://twitter.com/BramReuling) | Instagram - [@bramreuling](https://www.instagram.com/bramreuling/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug.
 
 ## Who am I?
